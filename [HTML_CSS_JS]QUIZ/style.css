@@ -28,11 +28,11 @@ ol.choices li:hover {
 
 span#correct-answer {
 	font-weight: bold;
-	color: #a00000
+	color: #a00000;
 }
 
 div#section-answer {
-	display: block;
+	display: none;
 }
 
 /* コードブロック */
